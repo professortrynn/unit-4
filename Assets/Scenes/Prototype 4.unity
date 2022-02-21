@@ -184,7 +184,6 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -249,7 +248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 922fd0abb3ce7b247baba916cbd7a404, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 750
 --- !u!1001 &245963551
 PrefabInstance:
   m_ObjectHideFlags: 0
